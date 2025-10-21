@@ -1,0 +1,17 @@
+com\electricengineering\controllers\DividerController.class
+com\electricengineering\controllers\LoginController.class
+com\electricengineering\controllers\MainController.class
+com\electricengineering\models\OhmResult.class
+com\electricengineering\controllers\DividerController$DividerSolution.class
+org\example\electricengineeringapp\HelloApplication.class
+com\electricengineering\controllers\RegisterController.class
+com\electricengineering\models\DividerResult.class
+com\electricengineering\controllers\OhmController.class
+com\electricengineering\Database.class
+com\electricengineering\utils\AlertUtils.class
+com\electricengineering\App.class
+com\electricengineering\Main.class
+com\electricengineering\models\User.class
+org\example\electricengineeringapp\HelloController.class
+org\example\electricengineeringapp\Launcher.class
+com\electricengineering\controllers\HistoryController.class
